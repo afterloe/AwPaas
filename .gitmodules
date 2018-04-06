@@ -1,3 +1,6 @@
 [submodule "awpaas-repository"]
 	path = awpaas-repository
 	url = git@github.com:afterloe/awpaas-repository.git
+[submodule "awpaas-monitor"]
+	path = awpaas-monitor
+	url = git@github.com:afterloe/awpaas-monitor.git

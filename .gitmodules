@@ -7,3 +7,6 @@
 [submodule "awpaas-collect-log"]
 	path = awpaas-collect-log
 	url = git@github.com:afterloe/awpaas-collect-log.git
+[submodule "awpaas-route"]
+	path = awpaas-route
+	url = git@github.com:afterloe/awpaas-route.git

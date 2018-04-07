@@ -4,3 +4,6 @@
 [submodule "awpaas-monitor"]
 	path = awpaas-monitor
 	url = git@github.com:afterloe/awpaas-monitor.git
+[submodule "awpaas-collect-log"]
+	path = awpaas-collect-log
+	url = git@github.com:afterloe/awpaas-collect-log.git

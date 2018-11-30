@@ -1,6 +1,6 @@
 # builder 使用须知
-> create by afterloe <lm6289511@gmail.com>  
-> Apache License 2.0  
+> create by afterloe <lm6289511@gmail.com>
+> Apache License 2.0
 > https://github.com/afterloe
 
 ### 构建go相关项目
@@ -21,6 +21,10 @@ go build
 
 ### awpaas系列组件中使用make来构建
 ```sbtshell
-make -src={path to GOROOT or GOPATH}
+make -m src=/data/data-2/go/src
 docker run -it awpaas/awpaas-route:1.0.0
+```
+### build
+```sbtshell
+docker build -t awpaas/builder:1.0.0 .
 ```

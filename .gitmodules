@@ -13,3 +13,6 @@
 [submodule "awpaas-manager"]
 	path = awpaas-manager
 	url = git@github.com:afterloe/awpaas-manager.git
+[submodule "awpaas-bs"]
+	path = awpaas-bs
+	url = git@github.com:afterloe/awpaas-bs.git
